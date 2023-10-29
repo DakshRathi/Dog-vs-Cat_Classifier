@@ -1,5 +1,3 @@
-!pip install tensorflow
-
 import streamlit as st
 import tensorflow.keras
 from tensorflow.keras.models import load_model
